@@ -88,6 +88,13 @@ nav {
 	}
 }
 
+@media only screen and (max-width: 655px) {
+	.container-info{
+		margin-top: 50%;
+    		width: 78%;
+	}
+}
+
 .collapsible {
   background-color: #777;
   color: white;
