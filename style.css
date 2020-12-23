@@ -3,6 +3,27 @@ nav {
 	box-shadow: 0 3px 3px rgba(0,0,0,.2);
 }
 
+.jumbotron {
+	position: relative;
+	overflow: hidden;
+	height: auto;
+	max-width: 100%;
+	margin-top: 8%;
+}
+
+.container {
+	position: relative;
+}
+
+#myvideo {
+	position: absolute;
+	height: auto;
+	width: auto;
+	top: 0%;
+	min-width: 100%;
+	max-width: 100%;
+}
+
 .knowme{
 	transition-property: background-color;
 }
