@@ -3,6 +3,10 @@ nav {
 	box-shadow: 0 3px 3px rgba(0,0,0,.2);
 }
 
+main {
+	margin-top: 10%;
+}
+
 .jumbotron {
 	position: relative;
 	overflow: hidden;
