@@ -96,7 +96,7 @@ nav {
 }
 
 .resume-design {
-	margin-top:10%;
+	margin-top:15%;
 }
 
 .collapsible {
@@ -106,7 +106,7 @@ nav {
 	padding: 18px;
 	width: 30%;
 	border: none;
-	border-radius 40%;
+	border-radius: 40%;
 	text-align: left;
 	outline: none;
 }
