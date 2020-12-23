@@ -104,9 +104,9 @@ nav {
 	color: white;
 	cursor: pointer;
 	padding: 18px;
-	width: 30%;
+	width: 20%;
 	border: none;
-	border-radius: 40%;
+	border-radius: 5%;
 	text-align: left;
 	outline: none;
 }
