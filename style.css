@@ -81,7 +81,7 @@ nav {
   opacity:1!important;
 }
 
-@media only screen (max-width 900px) {
+@media only screen and (max-width 900px) {
 	.container-info{
 		margin-top: 50%;
     		width: 60%;
