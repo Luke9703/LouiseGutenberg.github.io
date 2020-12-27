@@ -81,12 +81,13 @@ nav {
 }
 	
 .mountains-image {
-	height: auto;
+	height: 40vh;
 	width: 100%;
 	object-fit: cover;
 }
 
 .contact-link {
+	color: black;
 	text-decoration: underline;
 }
 
