@@ -95,6 +95,15 @@ nav {
 	text-decoration: none;
 }
 
+.resume-download {
+	color: black;
+	text-decoration: underline;
+}
+
+.resume-download:hover {
+	text-decoration: none;
+}
+
 .collapsible {
 	background-color: #777;
 	color: white;
