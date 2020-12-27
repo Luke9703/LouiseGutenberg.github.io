@@ -12,3 +12,6 @@ for (i = 0; i < coll.length; i++) {
     } 
   });
 }
+
+let card = document.getElementsById("business-card");
+onclick='card.innerHTML = "I\'m looking forward to hearing from you!"'
