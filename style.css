@@ -80,20 +80,20 @@ nav {
 	}
 }
 	
-.resume-design {
-	margin-top: 5%;
-	padding:5%;
+.mountains-image {
+	height: auto;
+	width: 100%;
 }
 
 .collapsible {
 	background-color: #777;
 	color: white;
 	cursor: pointer;
-	margin: 1%;
-	padding: 2%;
+	margin: 0.2%;
+	padding: 1%;
 	width: 20%;
 	border: none;
-	border-radius: 5%;
+	border-radius: 2%;
 	text-align: left;
 	outline: none;
 }
