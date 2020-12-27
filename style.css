@@ -128,6 +128,18 @@ nav {
   background-color: #f1f1f1;
 }
 
+.contact-page {
+	margin-top: 5%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
+.business-card {
+	border: gray 1px solid;
+	border radius: 2%;
+	margin: 2%;
+}
+
 .business-card-photo {
 	height: auto;
 	max-width: 100%;
