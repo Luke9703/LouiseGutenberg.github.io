@@ -10,12 +10,9 @@ nav {
 	height: 100vh;
 }
 
-.container {
+.container-info {
 	position: relative;
 	z-index:2;
-}
-
-.container-info {
 	background-color: rgba(248, 249, 250, 0.8);
 	margin-top: 20%;
 	width: 30%;
