@@ -83,6 +83,15 @@ nav {
 .mountains-image {
 	height: auto;
 	width: 100%;
+	object-fit: cover;
+}
+
+.contact-link {
+	text-decoration: underline;
+}
+
+.contact-link:hover {
+	text-decoration: none;
 }
 
 .collapsible {
