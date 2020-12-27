@@ -131,7 +131,8 @@ nav {
   background-color: #f1f1f1;
 }
 
-.card-horizontal {
-    display: flex;
-    flex: 1 1 auto;
+.business-card-photo {
+	height: auto;
+	max-width: 100%;
+	object-fit: cover;
 }
