@@ -87,6 +87,7 @@ nav {
 	object-fit: cover;
 	
 .resume-design {
+	margin-top: 5%;
 	padding:5%;
 }
 
@@ -97,7 +98,7 @@ nav {
 	margin: 1%;
 	padding: 2%;
 	width: 20%;
-	border: gray solid 1px;
+	border: none;
 	border-radius: 5%;
 	text-align: left;
 	outline: none;
