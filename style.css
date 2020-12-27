@@ -82,7 +82,7 @@ nav {
 .mountains-image {
 	position: absolute;
 	overflow: hidden;
-	height: 20vh;
+	height: 40vh;
 	width: 100%;
 	object-fit: cover;
 	
