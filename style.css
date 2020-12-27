@@ -79,12 +79,6 @@ nav {
     		width: 78%;
 	}
 }
-.mountains-image {
-	position: absolute;
-	overflow: hidden;
-	height: 40vh;
-	width: 100%;
-	object-fit: cover;
 	
 .resume-design {
 	margin-top: 5%;
