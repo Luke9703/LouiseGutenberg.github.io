@@ -150,3 +150,15 @@ nav {
 	object-fit: cover;
 	padding-bottom: 2%;
 }
+
+@media only screen and (max-width: 655px) {
+	.contact-page {
+		margin-top: 20%;
+	}
+	.business-card{
+		width: 100%;
+	}
+	.text-styling {
+		font-size: 3vw;
+	}
+}
