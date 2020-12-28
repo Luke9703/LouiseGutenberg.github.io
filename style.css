@@ -128,7 +128,7 @@ nav {
   background-color: #f1f1f1;
 }
 
-@media only screen and (max-width: 655px) {
+@media only screen and (max-width: 900px) {
 	.collapsible{
 		width: 45%;
 	}
@@ -151,7 +151,7 @@ nav {
 	padding-bottom: 2%;
 }
 
-@media only screen and (max-width: 655px) {
+@media only screen and (max-width: 900px) {
 	.contact-page {
 		margin-top: 20%;
 	}
