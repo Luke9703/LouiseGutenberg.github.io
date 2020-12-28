@@ -153,12 +153,12 @@ nav {
 
 @media only screen and (max-width: 900px) {
 	.contact-page {
-		margin-top: 20%;
+		margin-top: 30%;
 	}
 	.business-card{
-		width: 100%;
+		width: 100% !important;
 	}
 	.text-styling {
-		font-size: 3vw;
+		font-size: 3.2vw;
 	}
 }
