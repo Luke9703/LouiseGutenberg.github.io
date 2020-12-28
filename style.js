@@ -13,5 +13,10 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 
-let card = document.getElementById("business-card");
-onclick='card.innerHTML = "I\'m looking forward to hearing from you!"'
+let flipcard = document.getElementById("business-card");
+
+function flipcard () {
+  element.innerHTML = 'Looking forward to hearing from you!';
+}
+
+element.onclick = flipcard;
