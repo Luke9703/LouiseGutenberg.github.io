@@ -11,12 +11,4 @@ for (i = 0; i < coll.length; i++) {
       content.style.maxHeight = content.scrollHeight + "px";
     } 
   });
-},
-
-let flipcard = document.getElementById("business-card");
-
-function flipcard () {
-  element.innerHTML = 'Looking forward to hearing from you!';
 }
-
-element.onclick = flipcard;
